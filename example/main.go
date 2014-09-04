@@ -1,8 +1,8 @@
 package main
 
 import (
-	".."
 	"github.com/go-martini/martini"
+	"github.com/rosylilly/martini-graceful"
 	"log"
 	"syscall"
 	"time"
