@@ -4,6 +4,8 @@
 
 graceful shutdown for martini
 
+[API References](http://godoc.org/github.com/rosylilly/martini-graceful)
+
 ## Usage
 
 This package provides graceful shutdown to the martini application.
@@ -71,3 +73,11 @@ func main() {
   }
 }
 ```
+
+## License
+
+MIT Lisence
+
+## Authors
+
+- [Sho Kusano / @rosylilly](https://github.com/rosylilly) <rosylilly@aduca.org>
