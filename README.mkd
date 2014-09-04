@@ -1,5 +1,7 @@
 # Graceful
 
+[![wercker status](https://app.wercker.com/status/9b892bd85ba1b762b3f8d087e918f68b/s/master "wercker status")](https://app.wercker.com/project/bykey/9b892bd85ba1b762b3f8d087e918f68b)
+
 graceful shutdown for martini
 
 ## Usage
